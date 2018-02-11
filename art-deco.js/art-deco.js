@@ -1,3 +1,5 @@
+// I made this Friday night and did not save it until Saturday. I'm not sure how to delete this folder.
+
 for (var i = 10; i <= 320; i = i+65) {
    for (var x = 50; x >= 0; x = x-10) {
 //  var startX = i;
